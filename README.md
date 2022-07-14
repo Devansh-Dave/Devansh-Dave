@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Devansh-Dave
-- 👀 I’m interested in Competitive Coding
-- 🌱 I’m currently learning Python and ML
+- 👀 I’m interested in Python and OpenCV
+- 🌱 I’m currently learning Embedded Systems
 - 💞️ I’m looking to collaborate on real time projects as well as in hackathons
 - 📫 Reach me on devanshdave26@gmail.com
 
